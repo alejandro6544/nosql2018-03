@@ -1,0 +1,26 @@
+{
+    "dbs": [
+        {
+            "db-name" : "mynosqlbd",
+            "data" :
+            {
+               "userName" : "adminnsqldb",
+                "passWord":"sd123456",
+                "server":"mlab.com",
+                "port": 19916,
+                "db":"mynosqlbd"
+            }
+        },
+        {
+            "db-name" : "myres",
+            "data" :
+            {
+               "userName" : "adminrest",
+                "passWord":"123456da",
+                "server":"mlab.com",
+                "port": 39703,
+                "db":"restaurante"
+            }
+        }
+    ]
+}
